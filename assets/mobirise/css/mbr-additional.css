@@ -820,17 +820,17 @@ body {
   display: none;
 }
 .cid-qLxUgbtfG4 {
-  background: linear-gradient(to right, #4289a7 0%, #4289a7 30%, #5b686b 30%, #5b686b 100%);
+  background: linear-gradient(to right, #25da9d 0%, #25da9d 30%, #5b686b 30%, #5b686b 100%);
   overflow: hidden !important;
 }
 .cid-qLxUgbtfG4 .animated-element {
-  color: #efefef;
+  color: #25da9d;
 }
 .cid-qLxUgbtfG4 .img-block {
   align-self: center;
 }
 .cid-qLxUgbtfG4 .mbr-section-subtitle {
-  color: #9c88bc;
+  color: #25da9d;
 }
 @media (min-width: 992px) {
   .cid-qLxUgbtfG4 .img-block {
@@ -851,7 +851,14 @@ body {
   }
 }
 .cid-qLxUgbtfG4 .mbr-section-subtitle B {
-  color: #fac769;
+  color: #ffffff;
+}
+.cid-qLxUgbtfG4 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-qLxUgbtfG4 .mbr-text,
+.cid-qLxUgbtfG4 .mbr-section-btn {
+  color: #000000;
 }
 .cid-qLxVPApneY .dropdown-item:before {
   font-family: MobiriseIcons !important;
@@ -926,12 +933,12 @@ body {
 .cid-qLxVPApneY .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #fac769;
+  background: #ec6963;
   background: none;
 }
 .cid-qLxVPApneY .navbar.opened {
   transition: all .3s;
-  background: #fac769 !important;
+  background: #ec6963 !important;
 }
 .cid-qLxVPApneY .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1024,7 +1031,7 @@ body {
   }
 }
 .cid-qLxVPApneY .navbar.navbar-short {
-  background: #fac769 !important;
+  background: #ec6963 !important;
   min-height: 60px;
 }
 .cid-qLxVPApneY .navbar.navbar-short .navbar-logo img {
@@ -1063,7 +1070,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qLxVPApneY .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #fac769;
+  background: #ec6963;
 }
 .cid-qLxVPApneY .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1271,8 +1278,8 @@ body {
   color: #000000;
 }
 .cid-qLy0B7O3UQ {
-  padding-top: 30px;
-  padding-bottom: 0px;
+  padding-top: 15px;
+  padding-bottom: 15px;
   background-color: #fac769;
 }
 .cid-qLy0B7O3UQ .form-control {
@@ -1305,7 +1312,7 @@ body {
 .cid-qLxZXkauK9 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #ec6963;
 }
 .cid-qLxZXkauK9 .social-media {
   display: flex;
@@ -1427,7 +1434,7 @@ body {
 .cid-qLzCVKkEpz {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ffffff;
+  background-color: #ec6963;
 }
 .cid-qLzCVKkEpz .social-media {
   display: flex;
