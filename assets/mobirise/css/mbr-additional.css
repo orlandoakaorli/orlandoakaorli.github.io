@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700);
-@import url(https://fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900);
+@import url(https://fonts.googleapis.com/css?family=Merriweather+Sans:300,300i,400,400i,700,700i,800,800i);
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,400i,600,600i,700,700i);
 
 
@@ -27,8 +27,8 @@ body {
   font-size: 2.8rem;
 }
 .display-2 {
-  font-family: 'Maven Pro', sans-serif;
-  font-size: 1.8rem;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 1.2rem;
 }
 .display-4 {
   font-family: 'Poppins', sans-serif;
@@ -36,7 +36,7 @@ body {
 }
 .display-5 {
   font-family: 'Poppins', sans-serif;
-  font-size: 1rem;
+  font-size: 2rem;
 }
 .display-7 {
   font-family: 'Crimson Text', serif;
@@ -54,9 +54,9 @@ body {
     line-height: calc( 1.4 * (1.63rem + (2.8 - 1.63) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
-    font-size: 1.44rem;
-    font-size: calc( 1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.28rem + (1.8 - 1.28) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
     font-size: 0.68rem;
@@ -64,9 +64,9 @@ body {
     line-height: calc( 1.4 * (0.9475rem + (0.85 - 0.9475) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.8rem;
-    font-size: calc( 1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.6rem;
+    font-size: calc( 1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.35rem + (2 - 1.35) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -933,12 +933,12 @@ body {
 .cid-qLxVPApneY .navbar {
   min-height: 77px;
   transition: all .3s;
-  background: #ec6963;
+  background: #fac769;
   background: none;
 }
 .cid-qLxVPApneY .navbar.opened {
   transition: all .3s;
-  background: #ec6963 !important;
+  background: #fac769 !important;
 }
 .cid-qLxVPApneY .navbar .dropdown-item {
   padding: .235rem 1.5rem;
@@ -1031,7 +1031,7 @@ body {
   }
 }
 .cid-qLxVPApneY .navbar.navbar-short {
-  background: #ec6963 !important;
+  background: #fac769 !important;
   min-height: 60px;
 }
 .cid-qLxVPApneY .navbar.navbar-short .navbar-logo img {
@@ -1070,7 +1070,7 @@ body {
   padding: 0.667em 1.667em;
 }
 .cid-qLxVPApneY .navbar.navbar-expand-lg .dropdown .dropdown-menu {
-  background: #ec6963;
+  background: #fac769;
 }
 .cid-qLxVPApneY .navbar.navbar-expand-lg .dropdown .dropdown-menu .dropdown-submenu {
   margin: 0;
@@ -1230,6 +1230,7 @@ body {
 .cid-qLxXhZozeF .mbr-text,
 .cid-qLxXhZozeF .mbr-section-btn {
   color: #fff900;
+  text-align: center;
 }
 .cid-qLxXhZozeF .mbr-text,
 .cid-qLxXhZozeF .mbr-section-btn B {
@@ -1269,18 +1270,18 @@ body {
 }
 .cid-qLy2oVkBMQ .mbr-text,
 .cid-qLy2oVkBMQ .mbr-section-btn {
-  color: #ca4336;
+  color: #000000;
 }
 .cid-qLy2oVkBMQ .mbr-title {
-  color: #fff900;
+  color: #ffffff;
 }
 .cid-qLy2oVkBMQ .mbr-section-subtitle B {
-  color: #000000;
+  color: #ca4336;
 }
 .cid-qLy0B7O3UQ {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #fac769;
+  background-image: url("../../../assets/images/mbr-1-1735x1080.jpg");
 }
 .cid-qLy0B7O3UQ .form-control {
   color: #000000 !important;
@@ -1309,10 +1310,13 @@ body {
 .cid-qLy0B7O3UQ .mbr-section-subtitle {
   color: #ffffff;
 }
+.cid-qLy0B7O3UQ .mbr-section-title {
+  color: #fac769;
+}
 .cid-qLxZXkauK9 {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #ec6963;
+  background-color: #fac769;
 }
 .cid-qLxZXkauK9 .social-media {
   display: flex;
@@ -1342,14 +1346,14 @@ body {
   height: 3em;
   line-height: 3em;
   border-radius: 50%;
-  background-color: #fac769;
+  background-color: #4289a7;
   width: 3em;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   font-size: 13px;
 }
 .cid-qLxZXkauK9 .icon-transition span:hover {
-  background-color: #e96188;
+  background-color: #fac769;
 }
 .cid-qLxZXkauK9 .mbr-text {
   color: #000000;
@@ -1464,14 +1468,14 @@ body {
   height: 3em;
   line-height: 3em;
   border-radius: 50%;
-  background-color: #fac769;
+  background-color: #4289a7;
   width: 3em;
   -webkit-transition: all 0.3s ease-out 0s;
   transition: all 0.3s ease-out 0s;
   font-size: 13px;
 }
 .cid-qLzCVKkEpz .icon-transition span:hover {
-  background-color: #e96188;
+  background-color: #fac769;
 }
 .cid-qLzCVKkEpz .mbr-text {
   color: #000000;
