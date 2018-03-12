@@ -820,17 +820,17 @@ body {
   display: none;
 }
 .cid-qLxUgbtfG4 {
-  background: linear-gradient(to right, #25da9d 0%, #25da9d 30%, #5b686b 30%, #5b686b 100%);
+  background: linear-gradient(to right, #4289a7 0%, #4289a7 30%, #465052 30%, #465052 100%);
   overflow: hidden !important;
 }
 .cid-qLxUgbtfG4 .animated-element {
-  color: #25da9d;
+  color: #ffffff;
 }
 .cid-qLxUgbtfG4 .img-block {
   align-self: center;
 }
 .cid-qLxUgbtfG4 .mbr-section-subtitle {
-  color: #25da9d;
+  color: #fac769;
 }
 @media (min-width: 992px) {
   .cid-qLxUgbtfG4 .img-block {
@@ -844,7 +844,7 @@ body {
 }
 @media (max-width: 768px) {
   .cid-qLxUgbtfG4 {
-    background: #5b686b;
+    background: #465052;
   }
   .cid-qLxUgbtfG4 .img-block {
     padding-bottom: 2rem;
@@ -858,7 +858,7 @@ body {
 }
 .cid-qLxUgbtfG4 .mbr-text,
 .cid-qLxUgbtfG4 .mbr-section-btn {
-  color: #000000;
+  color: #fac769;
 }
 .cid-qLxVPApneY .dropdown-item:before {
   font-family: MobiriseIcons !important;
