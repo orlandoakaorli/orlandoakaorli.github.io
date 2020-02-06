@@ -1494,8 +1494,26 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
+.cid-rPGAmnQhd5 {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rPGAmnQhd5 H1 {
+  color: #6b93b4;
+  text-align: center;
+}
 .cid-rrh9s0lnyd {
   padding-top: 0px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
+}
+.cid-rPGAlwIzwV {
+  padding-top: 120px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rPGAlwIzwV H1 {
+  color: #6b93b4;
+  text-align: center;
 }
