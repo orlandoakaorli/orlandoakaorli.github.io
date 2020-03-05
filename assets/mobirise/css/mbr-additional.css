@@ -1431,7 +1431,7 @@ body {
 }
 .cid-rQwwOt5eub .mbr-iconfont-social {
   font-size: 32px;
-  color: #ff3366;
+  color: #f9f295;
 }
 .cid-rQwwOt5eub .social-list a:focus {
   text-decoration: none;
@@ -1469,7 +1469,7 @@ body {
   background-color: #b2ccd2;
 }
 .cid-rPGcHDEB4S H1 {
-  color: #ffffff;
+  color: #232323;
   text-align: center;
 }
 .cid-rPGcf0dgd3 {
@@ -1540,7 +1540,7 @@ body {
   background-color: #b2ccd2;
 }
 .cid-rPGAmnQhd5 H1 {
-  color: #ffffff;
+  color: #232323;
   text-align: center;
 }
 .cid-rPXSdkCjpT {
@@ -1576,6 +1576,27 @@ body {
   .cid-rQ92aO9ScY .video-block {
     width: 100% !important;
   }
+}
+.cid-rSlk6UcsT7 {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #b2ccd2;
+}
+.cid-rSlk6UcsT7 .title {
+  margin-bottom: 2rem;
+}
+.cid-rSlk6UcsT7 .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rSlk6UcsT7 a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rSlk6UcsT7 a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rSlk6UcsT7 textarea.form-control {
+  min-height: 188px;
 }
 .cid-rrh9s0lnyd {
   padding-top: 0px;
