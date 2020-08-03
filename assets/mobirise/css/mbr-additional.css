@@ -37,10 +37,10 @@ body {
 }
 .display-4 {
   font-family: 'Oswald', sans-serif;
-  font-size: 2.5rem;
+  font-size: 1.2rem;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 4rem;
+  font-size: 1.92rem;
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
@@ -73,9 +73,9 @@ body {
     line-height: calc( 1.4 * (1rem + (1 - 1) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 2rem;
-    font-size: calc( 1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.525rem + (2.5 - 1.525) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.96rem;
+    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -1418,7 +1418,7 @@ body {
 .cid-rrh8hL8Rkr {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-rrh8hL8Rkr H1 {
   color: #232323;
@@ -1427,7 +1427,7 @@ body {
 .cid-rQwwOt5eub {
   padding-top: 0px;
   padding-bottom: 0px;
-  background: linear-gradient(0deg, #b2ccd2, #b2ccd2);
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
 .cid-rQwwOt5eub .mbr-iconfont-social {
   font-size: 32px;
@@ -1437,12 +1437,13 @@ body {
   text-decoration: none;
 }
 .cid-rQwwOt5eub H2 {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-rQwvsU9g2v {
-  background: #b2ccd2;
+  background: #ffffff;
   padding-top: 60px;
   padding-bottom: 60px;
+  background: linear-gradient(0deg, #b2ccd2, #ffffff);
 }
 .cid-rQwvsU9g2v .image-block {
   margin: auto;
@@ -1466,7 +1467,7 @@ body {
 .cid-rPGcHDEB4S {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-rPGcHDEB4S H1 {
   color: #232323;
@@ -1537,16 +1538,17 @@ body {
 .cid-rPGAmnQhd5 {
   padding-top: 30px;
   padding-bottom: 0px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-rPGAmnQhd5 H1 {
   color: #232323;
   text-align: center;
 }
 .cid-rPXSdkCjpT {
-  background: #b2ccd2;
+  background: #ffffff;
   padding-top: 0px;
   padding-bottom: 0px;
+  background: linear-gradient(0deg, #b2ccd2, #ffffff);
 }
 .cid-rPXSdkCjpT .image-block {
   margin: auto;
@@ -1565,7 +1567,7 @@ body {
   }
 }
 .cid-rQ92aO9ScY {
-  background: #b2ccd2;
+  background: #ffffff;
   padding-top: 30px;
   padding-bottom: 30px;
 }
@@ -1578,7 +1580,7 @@ body {
   }
 }
 .cid-rSlnoZtBwG {
-  background: #b2ccd2;
+  background: #ffffff;
   padding-top: 0px;
   padding-bottom: 0px;
 }
@@ -1593,7 +1595,7 @@ body {
 .cid-rUIW81lL7t {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-rUIW81lL7t .mbr-slider .carousel-control {
   background: #1b1b1b;
@@ -1652,76 +1654,10 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #c4bc3b, #45505b) !important;
 }
-.cid-rSIs8lQNil {
-  padding-top: 60px;
-  padding-bottom: 0px;
-  background-color: #b2ccd2;
-}
-.cid-rSIs8lQNil h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-rSIs8lQNil p {
-  color: #767676;
-  margin: 0;
-}
-.cid-rSIs8lQNil .card-box {
-  background-color: #ffffff;
-  background-color: transparent;
-}
-.cid-rSIs8lQNil .mbr-section-btn {
-  padding-top: 1rem;
-}
-.cid-rSIs8lQNil .card-wrapper {
-  position: relative;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
-}
-.cid-rSIs8lQNil .wrapper {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: flex-start;
-}
-.cid-rSIs8lQNil .border_wrapper {
-  border-left: 1px solid #b2ccd2;
-  padding-left: 2rem;
-}
-@media (max-width: 991px) {
-  .cid-rSIs8lQNil .border_wrapper {
-    border-left: none;
-    padding-left: 0;
-  }
-  .cid-rSIs8lQNil .mbr-section-btn a {
-    padding: 1rem 2rem;
-  }
-  .cid-rSIs8lQNil .mbr-figure {
-    padding-bottom: 2rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rSIs8lQNil .wrapper {
-    align-items: center;
-    text-align: center;
-  }
-  .cid-rSIs8lQNil .col-left h4 {
-    padding-top: 1rem;
-  }
-  .cid-rSIs8lQNil p.col-right {
-    padding-top: 1rem;
-  }
-}
-.cid-rSIs8lQNil .card-title {
-  color: #232323;
-}
-.cid-rSIs8lQNil P {
-  color: #232323;
-}
 .cid-rSlk6UcsT7 {
   padding-top: 15px;
   padding-bottom: 15px;
-  background-color: #b2ccd2;
+  background-color: #ffffff;
 }
 .cid-rSlk6UcsT7 .title {
   margin-bottom: 2rem;
